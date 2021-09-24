@@ -1,4 +1,4 @@
-![Logo-Icesi]([logo-icesi-ece.jpg (610×160)](https://www.icesi.edu.co/observatorio-educacion/images/informes/logo-icesi-ece.jpg))
+<img src="https://www.icesi.edu.co/observatorio-educacion/images/informes/logo-icesi-ece.jpg" style="zoom:67%;" />
 
 # Español
 
