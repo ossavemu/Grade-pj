@@ -67,7 +67,7 @@ const SimplyF = () => {
     document.getElementById('answer').innerHTML = InvalidAns;
   }
 };
-//Dereivative App - look line 79, It was decided that the derivative should be taken as a factor "x".
+//Dereivative App.
 let factorder = '';
 const Dx = () => {
   inputstring = document.getElementById('inputST').value;

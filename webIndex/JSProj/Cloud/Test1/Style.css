@@ -1,0 +1,15 @@
+.card {
+  border-radius: 1%;
+  font-size: 85%;
+  text-align: justify;
+  box-shadow: 0 5px 10px rgba(128, 128, 128, 0.3);
+}
+.swal2-input {
+  color: aliceblue !important;
+}
+.swal2-styled.swal2-cancel {
+  border-radius: 0% !important;
+}
+.swal2-styled.swal2-confirm {
+  border-radius: 0% !important;
+}
