@@ -81,7 +81,7 @@ const Dx = () => {
     html: '<p class="text-center" style="font-size: 85%; width: 80%; margin-left:auto;  margin-right:auto"> If you have [x^2+1-y] and you type "x", you will get 2*x</p>',
     inputPlaceholder: 'Insert the variable to be derived here',
     padding: '0.7em',
-    background: '#F5F5F5',
+    background: '#0f2537',
     inputAttributes: {
       'aria-label': 'Type your message here',
     },

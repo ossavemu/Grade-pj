@@ -13,3 +13,7 @@
 .swal2-styled.swal2-confirm {
   border-radius: 0% !important;
 }
+.swal2-validation-message {
+  background: #20374c !important;
+  color: white !important;
+}
